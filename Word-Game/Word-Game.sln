@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word-Game.API", "Word-Game.API\Word-Game.API.csproj", "{237162B2-FC83-4488-A4F9-0BEE295B9635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word-Game.Domain", "Word-Game.Domain\Word-Game.Domain.csproj", "{001FCFB3-FB0D-40B0-BA7F-F70D2E34A863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word-Game.Infrastructure", "Word-Game.Infrastructure\Word-Game.Infrastructure.csproj", "{A39D121B-ED87-4BCF-8B4B-0928A2F984C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word-Game.Application", "Word-Game.Application\Word-Game.Application.csproj", "{08881BE6-C84E-470A-B222-991EF8F1A806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237162B2-FC83-4488-A4F9-0BEE295B9635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237162B2-FC83-4488-A4F9-0BEE295B9635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237162B2-FC83-4488-A4F9-0BEE295B9635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237162B2-FC83-4488-A4F9-0BEE295B9635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001FCFB3-FB0D-40B0-BA7F-F70D2E34A863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001FCFB3-FB0D-40B0-BA7F-F70D2E34A863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001FCFB3-FB0D-40B0-BA7F-F70D2E34A863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001FCFB3-FB0D-40B0-BA7F-F70D2E34A863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39D121B-ED87-4BCF-8B4B-0928A2F984C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39D121B-ED87-4BCF-8B4B-0928A2F984C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39D121B-ED87-4BCF-8B4B-0928A2F984C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39D121B-ED87-4BCF-8B4B-0928A2F984C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08881BE6-C84E-470A-B222-991EF8F1A806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08881BE6-C84E-470A-B222-991EF8F1A806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08881BE6-C84E-470A-B222-991EF8F1A806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08881BE6-C84E-470A-B222-991EF8F1A806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BE77DF-4599-45F7-B0D3-42AC5C2F6A96}
+	EndGlobalSection
+EndGlobal
